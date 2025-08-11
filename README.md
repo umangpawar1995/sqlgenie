@@ -68,4 +68,4 @@ To automatically commit and push changes every 5 minutes:
 ---
 
 ## License
-MIT (or specify your license) 
+MIT
